@@ -1,3 +1,2 @@
-Yet another exercise 
+4th exercise on low level programming -c language
 
-#Alx low level programming
